@@ -1,6 +1,6 @@
 # Model of the "inflation hypothesis" of the handicap principle
 
-This repository contains the simulation code for generating data from the paper published in Behavioural Ecology [doi link].
+This repository contains the simulation code for generating data from the paper published in Behavioural Ecology https://academic.oup.com/beheco/article-abstract/31/3/784/5812610.
 
 The simulation code is written in ECMAScript which can be run using Node.js or in a browser window. The benefit of the latter solution is it allows visualisation in real-time.
 
